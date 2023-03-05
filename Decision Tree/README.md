@@ -5,3 +5,6 @@
 - There are two popular techniques for ASM, which are: Gini Index AND information Gain
 - Attributes are assumed to be categorical for information gain and for gini index, attributes are assumed to be continuous
 - Gini Index is a metric to measure how often a randomly chosen element would be incorrectly identified. It means an attribute with lower gini index should be preferred.
+- In case of a decision tree regressor, the final prediction is the average of the value of the dependent variable in that particular leaf node.
+- Advantages : easy to understand, lesser data cleaning is required, non-linearity does not affect the model’s performance and the number of hyper-parameters to be tuned is almost null.
+- 
