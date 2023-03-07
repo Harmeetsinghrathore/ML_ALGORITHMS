@@ -1,0 +1,5 @@
+# NAIVE BAYES
+- Implementation of NAIVE BAYES algo.-Naive Bayes is a classification algorithm for binary (two-class) and multiclass classification problems. It is called Naive Bayes or idiot Bayes because the calculations of the probabilities for each class are simplified to make their calculations tractable.
+- The Naive Bayes method makes the assumption that the predictors contribute equally and independently to selecting the output class.
+- Although the Naive Bayes model’s assumption that all predictors are independent of one another is unfeasible in real-world circumstances, this assumption produces a satisfactory outcome in the majority of instances.
+- Normalization is useful in various data analysis and machine learning tasks where different variables have different scales and ranges, and we need to compare them or use them as input for algorithms that require standardized inputs. It can also help to mitigate the effects of outliers and improve the stability and convergence of numerical algorithms
